@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adityanuar
-- 👀 I’m interested MERN stack
-- 🌱 I’m currently learning deeply in JS
-- 💞️ I’m looking to collaborate on any awesome JS projects
+- 🌱 I’m fullstack developer in PHP, JS, Python and Golang
 - 📫 Contact me at adityanuar@gmail.com
 
 <!---
